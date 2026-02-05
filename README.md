@@ -1,4 +1,4 @@
 # komalbisht-trial
-this is my first repo
-changes in  github  called commit 
+this is my first repo <br >
+changes in  github  called commit <br >
 author - komal bisht
